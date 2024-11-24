@@ -14,11 +14,11 @@
 
 ### 1. Клонирайте хранилището
 
-Клонирайте това хранилище на локалната си машина:
+#### Клонирайте това хранилище на локалната си машина:
 
-```bash
-git clone https://github.com/your-username/shop-app.git
-cd shop-app
+#### ```bash
+#### git clone https://github.com/your-username/shop-app.git
+#### cd shop-app
 
 ### 2. Изградете и стартирайте контейнерите
 
