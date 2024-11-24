@@ -16,23 +16,24 @@
 
 #### Клонирайте това хранилище на локалната си машина:
 
-#### ```bash
-#### git clone https://github.com/your-username/shop-app.git
-#### cd shop-app
-
+ ```bash
+ git clone https://github.com/your-username/shop-app.git
+ cd shop-app
+```
 ### 2. Изградете и стартирайте контейнерите
-
+```bash
 docker-compose up -d --build
-
+```
 ### 3. Присъединете се към контейнера shop_app
-
+ ```bash
 docker exec -it shop_app /bin/bash
-
+```
 ### 4. Стартирайте Python приложението
-
+ ```bash
 python app.py
-
+```
 
 ### 5. Спиране на контейнерите
-
+ ```bash
 docker-compose down
+```
