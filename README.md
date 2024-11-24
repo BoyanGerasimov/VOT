@@ -8,7 +8,7 @@
 
 - **Docker**: [Инсталирайте Docker](https://docs.docker.com/get-docker/)
 - **Docker Compose**: [Инсталирайте Docker Compose](https://docs.docker.com/compose/install/)
-
+- **PostgreSQL**: [Инсталирайте PostgreSQL](https://www.postgresql.org/download/)
 
 ## Стъпки за стартиране на приложението
 
